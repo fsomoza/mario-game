@@ -84,5 +84,6 @@ public class Window {
 
             glfwSwapBuffers(glfwWindow);
         }
+        System.out.println("caca");
     }
 }
